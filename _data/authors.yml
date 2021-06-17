@@ -3,7 +3,7 @@
 # Change `author1` to your shortname.
 Mato:
   name:              Mato
-  email:             DreamEaters.Go@gmail.com
+  email:             RowanMato@gmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -25,7 +25,7 @@ Mato:
   # Rearrange to change the order in which they appear
   social:
     # telegram:        https://t.me/joinchat/VuqTgA4GvpXKUkOq
-    twitter:         GoDreamEaters
+    twitter:         RowanMato
     # github:          <username>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
@@ -45,7 +45,7 @@ Mato:
     # behance:         <username>
     # deviantart:      <username>
     # ello:            <username>
-    # twitch:          <username>
+    twitch:          RowanMato
     # steam:           <number>
     # reddit:          <username>
     # tumblr:          <username>

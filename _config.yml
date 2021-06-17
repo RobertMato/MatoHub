@@ -20,16 +20,16 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Dream Eaters
+title:                 Mato Hub
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Team Dream Eaters' official site.
-  Filled with guides to help up-and-coming Trainers.
+  Rowan Mato's hub of projects and writing.
+  Video games, design, collectibles, and more.
 
 # A shorter description for the sidebar.
-tagline:               Pokemon Go training guides.
+tagline:               Hub of Rowan Mato's projects.
 
 # A list of keywords for your blog
 keywords:              []
@@ -43,26 +43,18 @@ logo:                  /assets/img/logo.png
 author:
   # Used by `jekyll-feed`:
   name:                Mato
-  email:               DreamEaters.Go@gmail.com
+  email:               RowanMato@gmail.com
   # # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 
 # Add links to the sidebar.
 menu:
-  - title:             Best Attackers
-    url:               /teambuilding/best-attackers/
-  - title:             The Budget Dream Team
-    url:               /teambuilding/budget-dream-team/
-  - title:             Building a Good Pokemon
-    url:               /teambuilding/building-a-good-pokemon/
-#  - title:             Comparing Pokemon
-#    url:               /comparing-pokemon/
-#  - title:             Top Attackers by Type
-#    url:               https://docs.google.com/spreadsheets/d/e/2PACX-1vShfgtljtudTCVkQsWUog-e1z2VXZx_GkVJ_AnvX-gw11NhgDS7uhGBjrEGVYkA0S4Iqdr6lM7DM9BM/pubhtml?gid=452652263&single=true
-#  - title:             Battle League
-#    url:               /pvp/
-  - title:             Glossary of Terms
-    url:               /glossary/
+  - title:             Blog
+    url:               /blog/
+  - title:             Project Showcase
+    url:               /projects/
+  - title:             Graphic Design
+    url:               /graphic-design/
   - title:             About
     url:               /about/
 
@@ -103,12 +95,12 @@ remote_theme: hydecorp/hydejack@v9.0.0-rc.6
 
 # Sidebar image and theme color of the site.
 accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(129, 66, 238) #rgb(79,177,186)
+accent_color:          rgb(236, 137, 137)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(124, 76, 207) # rgb(8,46,57)
+theme_color:           rgb(145, 168, 239)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
