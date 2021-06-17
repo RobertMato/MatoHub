@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dream Eaters
+title: Mato's Homepage
 image: /assets/img/banner.jpg
 description: >
   Team Dream Eaters' official site. Filled with guides to help up-and-coming Trainers.
