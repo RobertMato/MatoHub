@@ -8,6 +8,7 @@ hide_description: true
 sitemap: true
 ---
 
+![](https://matohub.com/assets/img/banner/goldberry_banner.jpg)
 ### This is a major header!
 
 ## Coming Soon
