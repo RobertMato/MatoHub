@@ -3,7 +3,7 @@ layout: page
 title: Mato's Homepage
 image: /assets/img/banner.jpg
 description: >
-  Team Dream Eaters' official site. Filled with guides to help up-and-coming Trainers.
+  Homepage and hub for Mato's projects, writting, and design.
 last_modified_at: 2020-02-26
 hide_description: true
 no_link_title: false
