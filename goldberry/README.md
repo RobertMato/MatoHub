@@ -11,4 +11,4 @@ sitemap: true
 ![](http://matohub.com/assets/img/banner/goldberry_banner.jpg)
 ### This is a major header!
 
-## Coming Soon
+## ![](http://matohub.com/assets/img/goldberry/pichu.png) Features
