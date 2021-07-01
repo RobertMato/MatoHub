@@ -5,6 +5,7 @@ description: >
   Go Battle League information coming soon. Lower priority than Raid guides and teambuilding.
 image: /assets/img/banner/goldberry_banner.png
 hide_description: true
+hide_title: true
 sitemap: true
 redirect_from:
   - /projects/goldberry/
