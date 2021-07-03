@@ -2,7 +2,7 @@
 layout: page
 title: Gold Berry
 description: >
-  Go Battle League information coming soon. Lower priority than Raid guides and teambuilding.
+  A generation 2 Pokémon ROM hack. Fully new region, characters, and QoL features.
 image: /assets/img/banner/goldberry_banner.png
 hide_description: true
 hide_title: true
