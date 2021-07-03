@@ -14,7 +14,9 @@ redirect_from:
 ---
 
 ![](http://matohub.com/assets/img/banner/goldberry_banner.png)
->Experience the Beri region!
+>Are there too many references to Berries? Good.
+
+The main goals of Gold Berry are to be accessible to new players, challenging in post-game (with concepts based on Pokémon Stadium), and compatible with the vanilla games (including Stadium 2), all within a pseudo-open world with renewable resources. (Due to compatibility, no new mons, moves, or things like the Physical/Special split will be added) Gold Berry is intended to fit in with the original gen 2 games, so some minor decisions have been made for the sake of aesthetic and not feeling out of place in the gen 2 era. Gold Berry is being made with a heavy emphasis on multiplayer and Pokémon Stadium 2 interaction.
 
 ## ![](http://matohub.com/assets/img/goldberry/pichu.png) Features ![](http://matohub.com/assets/img/goldberry/oddish_lite.png)
 **A Constantly Moving World** - Across the many days in a week, and at the varying times of day, both people and Pokémon wander around the Beri region. As you adventure, you're sure to see some familiar faces making their own journeys. It would be worth your while to catch up with them when your paths cross, and learn from each other's stories.
