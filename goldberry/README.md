@@ -14,7 +14,7 @@ redirect_from:
 ---
 
 ![](http://matohub.com/assets/img/banner/goldberry_banner.png)
-### This is a minor header!
+>Experience the Beri region!
 
 ## ![](http://matohub.com/assets/img/goldberry/pichu.png) Features ![](http://matohub.com/assets/img/goldberry/oddish_lite.png)
 **A Constantly Moving World** - Across the many days in a week, and at the varying times of day, both people and Pokémon wander around the Beri region. As you adventure, you're sure to see some familiar faces making their own journeys. It would be worth your while to catch up with them when your paths cross, and learn from each other's stories.
