@@ -8,17 +8,14 @@ hide_description: true
 hide_title: false
 ---
 
-![](https://img.pokemondb.net/artwork/original/tangela-gen1.jpg)
+![](https://img.pokemondb.net/sprites/yellow/normal/tangela-color.png)
 >Are there too many references to Berries? Good.
 
-| Lv.     | Move   |  | TM | Move |
-|:---------|:----------|  |:--|:--|
-| -    |        Constrict |  | H1 | Cut |
-| 10      |         Absorb |  |
-| 15  |         Bind |  |
-|==========|===========|  |
-|TM    |        Move |  |
-|H1 | Cut |  |
+| Lv.     | Move   | TM | Move |
+|---------:|:----------|--:|:--|
+| -    |        Constrict | H1 | Cut |
+| 10      |         Absorb |
+| 15  |         Bind |
 {:.stretch-table}
 An optional caption for a table
 {:.figcaption}
