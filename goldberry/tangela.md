@@ -1,6 +1,6 @@
 ---
 layout: page
-title: #025 Pikachu
+title: №025 Pikachu
 description: >
   dummy
 image: https://img.pokemondb.net/artwork/original/tangela-gen1.jpg
@@ -11,14 +11,14 @@ hide_title: false
 ![](https://img.pokemondb.net/artwork/original/tangela-gen1.jpg)
 >Are there too many references to Berries? Good.
 
-| Lv.     | Move   |
-|:---------|:----------|
-| -    |        Constrict |
-| 10      |         Absorb |
-| 15  |         Bind |
-|==========|===========|
-|TM    |        Move |
-|H1 | Cut |
+| Lv.     | Move   |  | TM | Move |
+|:---------|:----------|  |:--|:--|
+| -    |        Constrict |  | H1 | Cut |
+| 10      |         Absorb |  |
+| 15  |         Bind |  |
+|==========|===========|  |
+|TM    |        Move |  |
+|H1 | Cut |  |
 
 The main goals of Gold Berry are to be accessible to new players, challenging in post-game (with concepts based on Pokémon Stadium), and compatible with the vanilla games (including Stadium 2), all within a pseudo-open world with renewable resources. (Due to compatibility, no new mons, moves, or things like the Physical/Special split will be added) Gold Berry is intended to fit in with the original gen 2 games, so some minor decisions have been made for the sake of aesthetic and not feeling out of place in the gen 2 era. Gold Berry is being made with a heavy emphasis on multiplayer and Pokémon Stadium 2 interaction.
 
